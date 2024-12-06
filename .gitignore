@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+.pytest_ache
+.vscode
+*.env
+env
+env
+*.tar
+build
+build_cythonize
+dist
+*.manifest
+*.spec
+*.so
